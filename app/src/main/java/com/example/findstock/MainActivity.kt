@@ -45,3 +45,14 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
+
+
+@Composable
+fun LoginScreen() {
+    // User authentication screen for existing admins
+}
+
+@Composable
+fun RegisterScreen() {
+    // Account creation screen for new administrative users
+}
